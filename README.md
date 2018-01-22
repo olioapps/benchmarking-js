@@ -6,5 +6,5 @@ To run the tests. Use a recent version of Node. Tested on v8.9.4.
 
 ```bash
 npm install
-npm run test
+npm test
 ```

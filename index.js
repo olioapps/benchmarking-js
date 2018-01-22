@@ -84,6 +84,8 @@ function parseUsers6(apiUsers) {
     )
 }
 
+console.log('Starting benchmark, please wait...')
+
 // add tests
 suite.add('parseUsers1(apiUsers)', function() {
   parseUsers1(apiUsers);
